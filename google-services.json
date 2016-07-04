@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "17544110207",
+    "firebase_url": "https://pushfire-ed179.firebaseio.com",
+    "project_id": "pushfire-ed179",
+    "storage_bucket": "pushfire-ed179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17544110207:android:4372bf0ae96b889d",
+        "android_client_info": {
+          "package_name": "com.abhi.pushfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17544110207-9cddcpa7h692hiruj68a4bcos64ci7er.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhi.pushfire",
+            "certificate_hash": "5F8D7C9E1060B7BAA4E07858B0A96DC98E90FA84"
+          }
+        },
+        {
+          "client_id": "17544110207-ghs3tnekhmqge5h3apra8it3hlb4sk0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpwYVlpClB6u2G7P1l5v7XCuwXX337ZOs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17544110207-ghs3tnekhmqge5h3apra8it3hlb4sk0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

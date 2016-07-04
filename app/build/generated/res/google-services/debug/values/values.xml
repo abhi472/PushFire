@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">17544110207-ghs3tnekhmqge5h3apra8it3hlb4sk0f.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://pushfire-ed179.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">17544110207</string>
+    <string name="google_api_key" translatable="false">AIzaSyDpwYVlpClB6u2G7P1l5v7XCuwXX337ZOs</string>
+    <string name="google_app_id" translatable="false">1:17544110207:android:4372bf0ae96b889d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDpwYVlpClB6u2G7P1l5v7XCuwXX337ZOs</string>
+    <string name="google_storage_bucket" translatable="false">pushfire-ed179.appspot.com</string>
+</resources>
